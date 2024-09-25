@@ -1,0 +1,8 @@
+Crearemos una página web que muestre obras de arte.  
+
+
+En el home de la página, coloque entre 6 y 10 imágenes de distintos tamaños, y utilice layout, grid o flexbox para organizarlas. Solo haga foco en la organización de las imágenes.   
+
+
+A continuación, les dejo dos ejemplos de disposiciones de obras para recrear ustedes mismos: 
+
